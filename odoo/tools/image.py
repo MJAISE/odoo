@@ -6,7 +6,7 @@ import io
 
 from PIL import Image, ImageOps
 # We can preload Ico too because it is considered safe
-from PIL import IcoImagePlugin
+# from PIL import IcoImagePlugin
 
 from random import randrange
 
